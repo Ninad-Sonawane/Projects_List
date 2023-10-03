@@ -1,6 +1,6 @@
-## Projects_List
+# Projects_List
 
-# Java Bsic Programs
+## Java Bsic Programs
 https://github.com/Ninad-Sonawane/Java-Basic-Programs
 
 ##  CodeClause Internship Project
