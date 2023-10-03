@@ -3,7 +3,7 @@
 ## Java Basic Programs
 https://github.com/Ninad-Sonawane/Java-Basic-Programs
 
-##  CodeClause Internship Project
+##  CodeClause Internship Projects
 
 1) Library management system
 https://github.com/Ninad-Sonawane/CodeClause_project_name
@@ -11,7 +11,7 @@ https://github.com/Ninad-Sonawane/CodeClause_project_name
 2) Virtual private network
 https://github.com/Ninad-Sonawane/CodeClause_project_name
 
-## OasisInfobyte Internship  
+## OasisInfobyte Internship Projects  
 
 1) ATM Interface
 https://github.com/Ninad-Sonawane/oibsip_task3
